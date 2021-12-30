@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/github/commit-activity/w/TheUltronX/PyroStringGenerator?style=for-the-badge" alt="Commit Activity">
     <img src="https://img.shields.io/github/issues/TheUltronX/PyroStringGenerator?style=for-the-badge" alt="Issues">
 </p>
+
 ## Configs:
 - API_HASH
   - Get from [Here](https://my.telegram.org).
