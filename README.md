@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/github/issues/TheUltronX/PyroStringGenerator?style=for-the-badge" alt="Issues">
 </p>
 
-## PyroGram String Bot:
+## PyroGram String Demo Bot:
 <a href="https://t.me/PyroStringGenerator_bot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 
 ## Configs:
